@@ -1,0 +1,10 @@
+.python-version
+.DS_Store
+dataset/
+dataset2/
+__pycache__/
+.mypy_cache/
+*.pkl
+*.npz
+*.pth
+.idea/
